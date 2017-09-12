@@ -51,7 +51,7 @@ python run.py --dropout 0.4 --dataset cbtne --seed 31
 python run.py --dropout 0.3 --dataset wdw --seed 11
 ```
 
-### WDW
+### WDW Relaxed
 ```
 python run.py --dropout 0.3 --dataset wdw_relaxed --seed 51
 ```
